@@ -349,7 +349,7 @@
             </div>
 
             <div class="col-md-3">
-                <label class="control-label">Genre Buku<b class="harus_diisi">*</b></label>
+                <!-- <label class="control-label">Genre Buku<b class="harus_diisi">*</b></label> -->
             </div>
 
             <div class="col-md-9">
