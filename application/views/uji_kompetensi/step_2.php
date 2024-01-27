@@ -348,6 +348,24 @@
                 </div>
             </div>
 
+            <div class="col-md-3">
+                <label class="control-label">Genre Buku<b class="harus_diisi">*</b></label>
+            </div>
+
+            <div class="col-md-9">
+                <!-- <div class="form-group">
+                    <select class="form-control select2" name="id_genre" id="id_genre">
+                        <option value="">Pilih Genre</option>
+                        <?php foreach ($genre as $value) { ?>
+                            <option value="<?=$value->id?>"><?=$value->nama_genre?></option>
+                        <?php } ?>
+                    </select>
+                </div> -->
+                <div style="margin-top:20px; margin-bottom:20px;">
+                    <button id="selanjutnya-2" class="btn btn-success nextBtn btn-md pull-left" type="button" >Selanjutnya (Langkah 3)</button>
+                </div>
+            </div>
+
         </div>
 
     </div>
